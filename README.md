@@ -1,10 +1,4 @@
 
-kami
-
-
-
-****
-
 #### Follow Me:
 * [HackerOne](https://hackerone.com/xcod3bughunt3r)
 * [LinkedIn](https://www.linkedin.com/in/xcod3bughunt3r)
@@ -18,4 +12,3 @@ kami
 * [TryHackMe](https://tryhackme.com/p/Xcod3bughunt3r)
 * [IT People](https://t.me/itpeopleindonesia)
 
-****
