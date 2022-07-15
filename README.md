@@ -1,5 +1,4 @@
 ### ALIF FUSOBAR - Master of Cyber Security Indonesia. 
-<img src="0011.png" alt="ALIF FUSOBAR - CEO - redhathacker.id">
 
 ****
 
